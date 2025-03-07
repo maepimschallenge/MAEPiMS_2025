@@ -1,5 +1,5 @@
 # MAEPiMS_2025
-What is MAEPiMS?
+
 Mathematics | Epidemiology | Machine Learning | Social Indicator
 
 A multidisciplinary competition designed for the next generation of thinkers to apply their skills to solve challenging tasks. 
@@ -20,3 +20,5 @@ Why Participate?
 *Work on cutting-edge problems in disease surveillance and prediction.
 *Collaborate with peers and gain recognition for innovative solutions.
 *Make a meaningful contribution to public health and resilience.
+
+https://adejimiadeniji.com/maepims/
