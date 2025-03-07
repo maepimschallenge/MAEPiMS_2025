@@ -1,3 +1,4 @@
+![MAEPiMS](https://github.com/user-attachments/assets/6de98252-e578-477d-8611-f1cdd3e38ae9)
 # MAEPiMS_2025
 
 Mathematics | Epidemiology | Machine Learning | Social Indicator
